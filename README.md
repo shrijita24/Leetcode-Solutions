@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
