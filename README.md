@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Recursion
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/shrijita24/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
