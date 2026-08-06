@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
