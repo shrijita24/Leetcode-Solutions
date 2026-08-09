@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/shrijita24/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Recursion
 |  |
