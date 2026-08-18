@@ -7,6 +7,6 @@ class Solution {
                 return true;
             set.add(num);
         }
-        return false;//entire array finished with no duplicates
+        return false;
     }
 }
