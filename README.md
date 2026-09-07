@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrijita24/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
