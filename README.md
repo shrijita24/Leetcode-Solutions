@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrijita24/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -58,15 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Dynamic Programming
@@ -280,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
