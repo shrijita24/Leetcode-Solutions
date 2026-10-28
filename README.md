@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/shrijita24/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrijita24/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrijita24/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/shrijita24/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Graph Theory
 |  |
 | ------- |
